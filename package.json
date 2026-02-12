@@ -1,0 +1,23 @@
+{
+  "name": "avl-tree-visualization",
+  "version": "1.0.0",
+  "description": "Interactive AVL Tree Visualization",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "avl-tree",
+    "data-structures",
+    "visualization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
